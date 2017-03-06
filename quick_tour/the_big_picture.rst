@@ -94,8 +94,6 @@ The Request Flow
 Now, the Sandbox is ready to use. Navigate to the homepage
 (``http://localhost:8000/``) to see the demo:
 
-redo image with current sandbox
-
 .. image:: ../_images/quick_tour/big-picture-home.png
 
 You see that we already have a complete website in our demo. Let's take a
